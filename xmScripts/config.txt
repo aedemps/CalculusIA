@@ -2,8 +2,7 @@
 # version of Ximera xake container to use (with xmlatex)
 #
 # : "${XAKE_BASE:=ximeralatex}"
-: "${XAKE_VERSION:=v2.5.5-full}"
-
+: "${XAKE_VERSION:=v2.5.8}"
 #
 #
 # For publishing locally, a default key in .xmKeyFile is sufficient.
